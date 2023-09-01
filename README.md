@@ -48,9 +48,3 @@ To make the project even more impressive, consider adding advanced features such
 - Integration with third-party product databases or APIs.
 - Implementing an event-driven architecture for real-time updates.
 - Implementing caching strategies to improve performance.
-
-**Documentation**:
-
-Throughout the project, maintain thorough documentation that includes architecture diagrams, API documentation, deployment guides, and a project report that explains the design choices, challenges faced, and solutions implemented.
-
-By completing this microservices-based e-commerce project, you will demonstrate your ability to design, build, and deploy a distributed system, which aligns well with the skills required for a Senior Member of Technical Staff role in a distributed service engineering environment.
